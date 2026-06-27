@@ -1,0 +1,42 @@
+/* style001.css */
+
+body
+{
+    margin: 0px 2px;
+    background-color: rgb(30, 30, 30);
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 20px;
+}
+
+hr
+{
+    margin: 2px;
+}
+
+#searchbox
+{
+    background-color: rgb(57, 0, 111);
+    color: yellow;
+}
+
+#firstNameDiv
+{
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+}
+
+#lastNameDiv
+{
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+}
+
+/*----*/
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* // https://sites.google.com/view/CollegeOfScripting */
+
