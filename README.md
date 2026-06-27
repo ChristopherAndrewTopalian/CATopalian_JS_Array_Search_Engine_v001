@@ -3,6 +3,8 @@ v001 A JavaScript app that teaches how to add objects and search an array.
 
 ![001](src/media/textures/screenshots/001.png)
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JS_Array_Search_Engine_v001/CATopalian_JS_Array_Search_Engine.html
+
 ---
 
 How to Download this App
